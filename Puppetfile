@@ -16,6 +16,6 @@ forge "https://forgeapi.puppetlabs.com"
    :git => 'https://github.com/psangale/testrepo.git',
    :ref => 'master'
 
- mod 'testrepo',
+ mod 'apache',
    :git => 'https://github.com/psangale/apache.git',
    :ref => 'master'
